@@ -10,6 +10,8 @@
 extern NSString *c_defaults;
 #define D_DEFAULTS c_defaults
 
+#define VERSION__ "0.1APLHA1"
+
 #define D_FONDECRAN @"fond_ecran"
 #define D_APPLICATIONS @"applications"
 #define D_NOM @"NOM"
