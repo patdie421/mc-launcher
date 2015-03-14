@@ -1,0 +1,1 @@
+Automatise le lancement de divers applications au demarrage d'un Mac. L'objectif est de masquer toutes les "affichages" du systèmes (y compris le bureau) pour avoir un démarrage propre et pro du média center
